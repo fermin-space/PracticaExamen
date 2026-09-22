@@ -1,0 +1,10 @@
+planetas = ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano", "Neptuno"]
+print("lista completa:",planetas)
+print("primer planeta:",planetas[0])
+print("segundo planeta",planetas[1])
+print("tercer planeta:",planetas[2])
+print("cuarto planeta:",planetas[3])
+print("quinto planeta:",planetas[4])
+print("sexto planeta:",planetas[5])
+print("septimo planeta:",planetas[6])
+print("octavo planeta:",planetas[7])
